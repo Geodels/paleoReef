@@ -1,6 +1,6 @@
 # Abiotic controls on warm-water carbonates through geological times
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17033776.svg)](https://doi.org/10.5281/zenodo.17033776)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10073627.svg)](https://doi.org/10.5281/zenodo.10073627)
 
 Series of workflows used to evaluate global carbonate distribution and accumulation over the past 265 Myr accounting for changes in paleogeography, plate tectonics, and paleo-climatic conditions. 
 
